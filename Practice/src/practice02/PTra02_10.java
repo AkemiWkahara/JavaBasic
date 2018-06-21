@@ -9,7 +9,7 @@ package practice02;
 public class PTra02_10 {
 	public static void main(String[] args) {
 		int moneyInHand = 1000;	// 所持金
-		int coffee = 120;	// コーヒーの値段
+		int coffee = 120;	// コーヒーの値段 
 		int snack = 200;	// スナック菓子
 
 		/*
@@ -24,7 +24,7 @@ public class PTra02_10 {
 
 		double i = (moneyInHand-(coffee*2)-snack)*1.08;
 		System.out.println(i);
-
+ 
 
 
 	}

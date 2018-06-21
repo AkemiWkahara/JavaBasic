@@ -36,5 +36,33 @@ public class PTra03_08 {
 		 * ※ プログラムは何行書いても良いです
 		 */
 
+
+		int num1 =150;
+		int num2 =160;
+		int num3 =200;
+
+        if (money!=num1) {
+       	System.out.println(money-num1+"円");
+        System.out.println(money-num1+"円");
+
+        }
+
+        else if (money!=num2) {
+        System.out.println(money-num2+"円");
+        System.out.println(money-num2+"円");
+
+        }
+
+        else if (money!=num3){
+        System.out.println(money-num3+"円");
+        System.out.println(money-num3+"円");
+
+        }
+
+
+
+
+		}
 	}
-}
+
+

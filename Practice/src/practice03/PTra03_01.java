@@ -6,7 +6,7 @@ package practice03;
  * Copyright(c) Rhizome Inc. All Rights Reserved.
  */
 
-public class PTra03_01 {
+public class PTra03_01 { 
 	public static void main(String[] args) {
 		// ★ int型の変数numを宣言し、70で初期化してください
 
